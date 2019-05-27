@@ -1,0 +1,4 @@
+Clothes Line Ninja:
+This is an interactive clothes drying line. It has a rope which is wound around two pulleys. There are 2 touch sensors. Upon touching one of them the line moves in the right direction and upon touching the other the line moves in the left direction. You can put your clothes for drying or pick them up just by standing at one place without having to walk up and down the line. The app related with this would tell you the temperature and humidity level and give you notifications regarding the weather forecast. This uses a DHT11 sensor and a bluetooth module for sending the data. You would get a notification when it is sunny and perfect for you to dry your clothes. A warning notification would come when it is about to rain, so you can pick up your clothes from the drying line.
+
+Material used- DHT11 temperature and humidity sensor, Bluetooth module, Touch sensor, H-Bridge L298N, Motor, Arduino UNO, LEDs, 9V battery, 1.5V cells, Wires
